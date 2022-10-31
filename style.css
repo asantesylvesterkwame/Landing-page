@@ -60,3 +60,11 @@ ul{
 .mainimage{
     padding: 50px;
 }
+.shortexplanation{
+    margin-left: 500px;
+    font-weight: 900;
+}
+.focussection{
+    color: darkblue;
+    font-weight: 900;
+}

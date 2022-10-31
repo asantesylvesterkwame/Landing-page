@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+
+/*{
+    background-color: rgb(255, 254, 254) ;
+    font-family: poppins, sans-serif;
+}*/
+.headerbox{
+    background-color: #ededf373;
+    box-shadow: 3px 6px 12px black;
+    height: 50px;
+    width: auto;
+    
+
+}
+.studioworldlogo{
+    width: 1px;
+    height: 1px;
+    
+}
+.navlinks{
+    text-transform: capitalize;
+
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    display: flex;
+    justify-content: flex-start;
+    list-style-type: none;
+    margin-left: 10px;
+    
+}
+.emptydiv{
+    width: 40px;
+    height: 0px;
+}

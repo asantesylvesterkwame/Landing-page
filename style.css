@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
 
 
-/*{
-    background-color: rgb(255, 254, 254) ;
+*{
+    
     font-family: poppins, sans-serif;
-}*/
+}
 .headerbox{
     background-color: #ededf373;
     box-shadow: 3px 6px 12px black;
@@ -40,6 +40,9 @@ ul{
 }
 .otherlinks{
     display: flex;
-    margin-left: 1000px;
+    margin-left: 900px;
     justify-content: space-around;
+}
+.try a{
+    color: darkblue;
 }

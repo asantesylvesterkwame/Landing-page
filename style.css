@@ -63,8 +63,20 @@ ul{
 .shortexplanation{
     margin-left: 500px;
     font-weight: 900;
+    margin-bottom: 300px;
+    font-size: 35px;
+    justify-self: center;
 }
 .focussection{
     color: darkblue;
     font-weight: 900;
+}
+.recording{
+   
+   background: orange;
+   margin-left: 1200px;
+   margin-bottom: 80px;
+   outline: 200px solid orange;
+   margin-right: 100px;
+    
 }

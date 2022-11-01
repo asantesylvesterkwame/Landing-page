@@ -67,6 +67,13 @@ ul{
     font-size: 35px;
     justify-self: center;
 }
+.shortexplanation1{
+    margin-left: 100px;
+    font-weight: 900;
+    margin-bottom: 300px;
+    font-size: 35px;
+    justify-self: center;
+}
 .focussection{
     color: darkblue;
     font-weight: 900;
@@ -74,9 +81,18 @@ ul{
 .recording{
    
    background: orange;
-   margin-left: 1200px;
+   margin-left: 1280px;
    margin-bottom: 80px;
    outline: 200px solid orange;
    margin-right: 100px;
+   
     
+}
+.overlayimage{
+    margin-left: 500px;
+  
+}
+.footer{
+    padding: 80px 0;
+    background-color: beige;
 }

@@ -98,6 +98,10 @@ ul{
     height: -10px;
     box-sizing: border-box;
 }
-.footer ul{
+.footer ,ul{
    display: block;
+}
+.footer, h1{
+    margin-left: 50px;
+    
 }
